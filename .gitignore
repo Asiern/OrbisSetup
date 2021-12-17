@@ -1,0 +1,6 @@
+# Python Cache
+__pycache__
+
+# Downloaded files
+*.exe
+*.tar.gz
